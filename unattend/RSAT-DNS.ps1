@@ -1,0 +1,1 @@
+Get-WindowsCapability -Name "Rsat.Dns.Tools~~~~0.0.1.0" -Online | Add-WindowsCapability -Online

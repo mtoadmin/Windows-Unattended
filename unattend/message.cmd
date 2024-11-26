@@ -1,0 +1,1 @@
+powershell.exe -ExecutionPolicy Bypass -File .\message.ps1

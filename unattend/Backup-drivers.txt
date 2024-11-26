@@ -1,0 +1,3 @@
+Export-WindowsDriver –Online -Destination c:\export-drivers
+
+pnputil.exe /add-driver C:\packages\drivers\*.inf /subdirs /install
